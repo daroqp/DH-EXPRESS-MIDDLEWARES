@@ -1,0 +1,16 @@
+El usuario entro a la ruta: /services
+El usuario entro a la ruta: /
+El usuario entro a la ruta: /admin
+El usuario entro a la ruta: /admin
+El usuario entro a la ruta: /admin?user=daro
+El usuario entro a la ruta: /admin?user=daro
+El usuario entro a la ruta: /admin?user=Vim
+El usuario entro a la ruta: /admin?user=DARO
+El usuario entro a la ruta: /
+El usuario entro a la ruta: /
+El usuario entro a la ruta: /
+El usuario entro a la ruta: /
+El usuario entro a la ruta: /
+El usuario entro a la ruta: /
+El usuario entro a la ruta: /admin?user=daro
+El usuario entro a la ruta: /admin?user=Vim
